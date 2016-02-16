@@ -7,7 +7,7 @@ url: "//moscblog.nicholas-fong.com"
 
 github: https://github.com/
 
-paginate: 2
+paginate: 5
 comments: true
 paginate_path: "/page/:num"
 
